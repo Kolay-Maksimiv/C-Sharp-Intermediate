@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Properties", "Properties
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Indexers", "Indexers\8. Indexers.csproj", "{E56822EE-63E2-45C9-9F3C-E1C703585886}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 1 Design a Stopwatch", "Exercise 1 Design a Stopwatch\Exercise 1 Design a Stopwatch.csproj", "{1B47CC71-6D68-4F1A-AAC7-CFEC8239103F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,10 @@ Global
 		{E56822EE-63E2-45C9-9F3C-E1C703585886}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E56822EE-63E2-45C9-9F3C-E1C703585886}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E56822EE-63E2-45C9-9F3C-E1C703585886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B47CC71-6D68-4F1A-AAC7-CFEC8239103F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B47CC71-6D68-4F1A-AAC7-CFEC8239103F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B47CC71-6D68-4F1A-AAC7-CFEC8239103F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B47CC71-6D68-4F1A-AAC7-CFEC8239103F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -72,6 +78,7 @@ Global
 		{C0726CE7-FB83-4892-98FE-4ED03B714237} = {473BF733-C067-4246-9CCD-7B394330FA6B}
 		{C92C2207-8AE9-4A8D-B4B0-9D0F10D05169} = {473BF733-C067-4246-9CCD-7B394330FA6B}
 		{E56822EE-63E2-45C9-9F3C-E1C703585886} = {473BF733-C067-4246-9CCD-7B394330FA6B}
+		{1B47CC71-6D68-4F1A-AAC7-CFEC8239103F} = {473BF733-C067-4246-9CCD-7B394330FA6B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {26B9F6A7-2FD4-4302-BE0E-E84B3794B9E3}
